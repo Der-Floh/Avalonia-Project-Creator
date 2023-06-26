@@ -5,3 +5,7 @@ Supports Cross-Platform and Windows Projects.
 Uses the functionality also seen in the [Avalonia Docs](https://docs.avaloniaui.net/)
 
 ![Avalonia-Project-Creator-Preview](https://github.com/Der-Floh/Avalonia-Project-Creator/assets/65826571/96a68856-4076-4e7b-b7f5-782438113f7e)
+
+<br/>
+
+[!["Buy me a Floppy Disk"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/der_floh)
